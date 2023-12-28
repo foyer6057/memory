@@ -1,4 +1,4 @@
-module github.com/xtls/reality
+module github.com/foyer6057/memory
 
 go 1.21
 
